@@ -21,8 +21,11 @@ public class MainActivity extends AppCompatActivity {
 
         int iii = i+ii;
 
+        int iiii = 3+3;
+
         String test = "Test";
 
+        boolean True = false;
     }
 
 
